@@ -4,12 +4,14 @@
 
 ## Features
 
-Features are included in [this page](https://aveyzan.xyz/aveytense#documentation).
+Features are included in [this page](https://aveyzan.xyz/aveytense#documentation). There are all versions, and most recent also appear on PyPi.
 For code changes see [this Google document](https://docs.google.com/document/d/1GC_KAOXML65jNfBZA8GhVViqPnrMoFtbLv_jHvUhBlg/edit?usp=sharing).
 
 ## Getting started
 
-To install AveyTense, run the following command:
+To install AveyTense from GitHub, download and invoke the `install.py` file.
+
+Normally, to install AveyTense, there is following command:
 
 ```
 pip install aveytense
@@ -24,13 +26,6 @@ pip install --upgrade aveytense
 ```
 
 After installation process, you can import module `aveytense`, which imports AveyTense components into your project.
-
-> **Note**: It is highly recommended to install latest final version of AveyTense. Do not rely on alpha, beta releases, and
-> release candidates before their final counterparts are published.
-
-> **Warning**: Support for Python 3.8 just has been initiated in version 0.3.46, so some definitions will be still prone for errors due
-> to the backward-compatibility. For code changes to completely support Python 3.8 there will be still need to inspect every definition
-> included in the project.
 
 ## Support
 
