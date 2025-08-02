@@ -9,7 +9,7 @@ For code changes see [this Google document](https://docs.google.com/document/d/1
 
 ## Getting started
 
-To install AveyTense from GitHub, download and invoke the `install.py` file.
+To install AveyTense from GitHub, download and invoke the `install.py` file. This file should be later considered featureless, and can be safely deleted.
 
 Normally, to install AveyTense, there is following command:
 
