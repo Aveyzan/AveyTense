@@ -10,14 +10,13 @@ For code changes see [this Google document](https://docs.google.com/document/d/1
 ## Getting started
 
 To install AveyTense from GitHub, download and invoke the `install.py` file. This file should be later considered featureless, and can be safely deleted.
+Remember to NOT use online compiler for this! Minimal Python version is 3.8 and for [`typing_extensions`](https://pypi.org/project/typing_extensions) PyPi project - 4.10.0.
 
 Normally, to install AveyTense, there is following command:
 
 ```
 pip install aveytense
 ```
-
-Ensure you have [`typing_extensions`](https://pypi.org/project/typing_extensions) PyPi project with version 4.10.0 or above, and Python 3.8 or above.
 
 If you think you are out of date, consider checking out [releases section](https://pypi.org/project/aveytense/#history) and running following command:
 
