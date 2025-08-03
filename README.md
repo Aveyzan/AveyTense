@@ -36,4 +36,5 @@ creating an issue in this repository. Bug fixes will be issued in future version
 - Aveyzan (30th May 2025), AveyTense Project Owner
 
 AveyTense project maintained on PyPi since 7th August 2024.
+
 © 2024-Present Aveyzan // License: MIT
